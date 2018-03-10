@@ -1,9 +1,9 @@
 img{
-    width: 200px;
+    width: 350px;
 }
 body{
     text-align: center;
-    font-family: "Arial";
-    color:red;
-    background:green;
+    font-family: "Papyrus";
+    color: black;
+    background: "white";
 }
